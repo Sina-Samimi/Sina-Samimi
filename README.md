@@ -3,7 +3,7 @@
   
 <div align="center">
   <span>
-  <h1 align="center">Hello, I'm Azzar,</h1>
+  <h1 align="center">Hello, I'm Sina Samimi,</h1>
   <h4 align="center">I'm a freelance developer</h4>
   </span>
 </div>
@@ -11,7 +11,7 @@
 -----
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://Sina-Samimi.github.io/Sina-Samimi/">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
   </a>
 </div>
@@ -24,18 +24,18 @@
     <h2 align="center">You can reach me by:</h2>
     <p align="center">
       <a href="https://www.linkedin.com/in/sina-samimi-4778241ab/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30">
+        <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sina-Samimi" height="30">
       </a>
       <a href="mailto:SamimiSina72@gmail.com.com" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30">
+        <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Sina-Samimi" height="30">
       </a>
     </p>
     <p align="center">
       <a href="https://instagram.com/sina_samimi1993" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="azzar" height="30">
+        <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Sina-Samimi" height="30">
       </a>
       <a href="https://wa.me/+989358881758" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="azzar" height="30">
+        <img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Sina-Samimi" height="30">
       </a>
     </p>
   </div>
