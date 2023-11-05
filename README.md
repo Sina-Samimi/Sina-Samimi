@@ -18,7 +18,7 @@
 
 -----
 
-<details>
+<details open>
   <summary>Contact Me ☎️</summary>
   <div>
     <h2 align="center">You can reach me by:</h2>
@@ -41,7 +41,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>About me 🫣</summary>
   <div>
     <h2 align="center">About this Account</h2>
@@ -56,7 +56,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>GitHub Profile Stats 💻</summary>
   <div>
     <h2 align="center">GitHub Stats</h2>
@@ -86,7 +86,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Latest Activity Graph 📈</summary>
   <br>
   <h2 align="center">Latest Contribution</h2>
