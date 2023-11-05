@@ -30,8 +30,6 @@
       <a href="https://wa.me/+989358881758" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-     
-      <br>
     </p>
   </samp>
 </div>
