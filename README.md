@@ -96,7 +96,7 @@
   <br>
 </details>
 
-<details open>
+<details>
   <summary>😒 random stuff</summary>
 <div>
 <samp>
